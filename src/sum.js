@@ -1,5 +1,5 @@
-function sumItUpIncorrectly(a, b) {
-	return a - b;
+function sumItUp(a, b) {
+	return a + b;
 }
 
-module.exports = sumItUpIncorrectly;
+module.exports = sumItUp;
